@@ -279,7 +279,7 @@ ul#nav li.current a { color: #F06000; }
 #resume {
    background: #fff;
    padding-top: 90px;
-   padding-bottom: 72px;
+   padding-bottom: 0px;
    overflow: hidden;
 }
 
@@ -340,7 +340,7 @@ ul#nav li.current a { color: #F06000; }
    position: relative;
   	margin-bottom: 60px;
   	background: #ccc;
-  	height: 42px;
+  	height: 14px;
   	border-radius: 3px;
 }
 .bars li em {
@@ -361,7 +361,7 @@ ul#nav li.current a { color: #F06000; }
    padding-right: 24px;
   	background: #313131;
    display: inline-block;
-  	height: 42px;
+  	height: 14px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
@@ -440,7 +440,7 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio {
    background: #ebeeee;
-   padding-top: 90px;
+   padding-top: 55px;
    padding-bottom: 60px;
 }
 #portfolio h1 {
